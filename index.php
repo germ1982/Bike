@@ -96,7 +96,7 @@
                     <li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 collist1">
                         <div class="list1overflow">
                             <figure><img src="img/page1_icon1.png" alt=""></figure>
-                            <p class="listtitle1" >Nuestras bicicletas<span>corceles forjados sobre el cual ruje la aventura.</span></p>
+                            <p class="listtitle1" >Nuestras bicicletasss<span>corceles forjados sobre el cual ruje la aventura.</span></p>
                         </div>
                         <p class="mbotlist1" style="text-align: justify;">Cada una de estas máquinas lleva consigo historias de senderos conquistados, cumbres alcanzadas y la camaradería de incontables rodadas. Son más que bicicletas; son testigos silenciosos de nuestra pasión compartida, extensiones de nuestra voluntad en la montaña patagónica. Juntas, trazan las leyendas de nuestro grupo.</p>
                         <a href="#" class="btn btn-primary btn2">Ver Mas</a>
