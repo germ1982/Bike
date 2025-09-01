@@ -111,6 +111,10 @@ body {
 .padbot3 {
 	padding: 30px 0 30px !important;
 }
+
+.rowWhite{
+    background-color: #f9f9f9!important;  
+}
 /*----------- Back to top --------------*/
 #toTop {
 	display: none;
@@ -273,7 +277,7 @@ header hr {
 	display: block;
 	position: relative;
 	text-align: center;
-	padding: 83px 0 88px;
+	/* padding: 83px 0 88px; */
 	margin: 0;
 }
 .navbar-brand_ img {
@@ -290,7 +294,7 @@ h1.navbar-brand_ a {
 }
 .rightside {
 	position: relative;
-	margin-top: 107px;
+	margin-top: 50px;
 	float: right;
 }
 /*-----------------navbar---------------------*/
@@ -697,6 +701,8 @@ h1.navbar-brand_ a {
 	width: 100%;
 	height: 100%;
 	border: none;
+      padding: 10px;
+      background-color: #f9f9f9;
 }
 .shortly h3 {
 	margin-bottom: 13px;
@@ -760,12 +766,13 @@ h1.navbar-brand_ a {
 	overflow: hidden;
 	line-height: 0;
 	font-size: 0;
-	padding: 0;
+	padding: 10px;
 	margin-bottom: 0;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 	border-radius: 0;
+      background-color: #f9f9f9;
 }
 .map2 iframe {
 	width: 100%;
