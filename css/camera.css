@@ -36,7 +36,7 @@
 	list-style: none;
 }
 .camera_wrap {
-	display: none;
+	display: block;
 	float: none;
 	position: relative;
 	z-index: 1;
@@ -254,6 +254,8 @@
 	top: 50%;
 	width: 31px;
 	z-index: 3;
+	opacity: 1;
+	transition: opacity 0.3s ease;
 }
 
 .showIt {

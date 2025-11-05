@@ -32,12 +32,14 @@
       <!--<![endif]-->
 
       <script>
-            $(window).load(function() {
-
+            $(document).ready(function() {
                   //camera
-                  jQuery('.camera_wrap').camera();
-
-
+                  jQuery('.camera_wrap').camera({
+                        loader: 'none',
+                        time: 3000,
+                        transPeriod: 800,
+                        autoAdvance: true
+                  });
             });
       </script>
 
